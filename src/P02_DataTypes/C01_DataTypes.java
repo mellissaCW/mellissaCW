@@ -6,6 +6,7 @@ public class C01_DataTypes {
         for (int i = 0; i <10 ; i++) {
             sayi=  (sayi*sayi);
           //  System.out.println(sayi);
+
         }
         double dd = 10;
         System.out.println("dd = " + dd);
